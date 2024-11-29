@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --main: rgb(174, 15, 15);
+    --secoundary: rgba(249, 11, 11, 0.788);
+    --white: white;
+    --card-background: rgb(218, 214, 214);
+    --text: black;
+    --container: yellow;
+}
+
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: var(--text);
+}
